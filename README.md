@@ -1,4 +1,4 @@
-<img src="assets/header.svg" alt="Maksim Tarasov — Senior Quality Engineer. AI tooling for QA, CI/CD with AI review, reference test frameworks." width="100%">
+<img src="assets/header.svg" alt="Senior Quality Engineer. AI tooling for QA, CI/CD with AI review, reference test frameworks." width="100%">
 
 I build AI tooling that takes routine work off QA and development teams — and the test frameworks and pipelines it runs on.
 
