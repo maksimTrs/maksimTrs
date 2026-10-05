@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="276" viewBox="0 0 840 276" role="img" aria-label="Maksim Tarasov — Senior Quality Engineer. AI tooling for QA, CI/CD with AI review, reference test frameworks.">
+  <style>
+    .sans { font-family: -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; }
+    .mono { font-family: ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace; font-size: 14px; }
+    .line { opacity: 0; animation: show .35s ease-out forwards; }
+    .l1 { animation-delay: .3s; } .l2 { animation-delay: .9s; } .l3 { animation-delay: 1.4s; }
+    .l4 { animation-delay: 1.9s; } .l5 { animation-delay: 2.6s; }
+    .cursor { animation: blink 1s steps(1) infinite; animation-delay: 2.6s; opacity: 0; }
+    @keyframes show { from { opacity: 0; transform: translateY(4px); } to { opacity: 1; transform: none; } }
+    @keyframes blink { 0% { opacity: 1; } 50% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) { .line, .cursor { animation: none; opacity: 1; } }
+  </style>
+  <rect x="1" y="1" width="838" height="274" rx="12" fill="#0d1117" stroke="#30363d"/>
+  <circle cx="26" cy="24" r="6" fill="#ff5f57"/><circle cx="46" cy="24" r="6" fill="#febc2e"/><circle cx="66" cy="24" r="6" fill="#28c840"/>
+  <text x="420" y="29" text-anchor="middle" class="mono" font-size="12" fill="#8b949e">maksimTrs — profile.spec</text>
+  <text x="32" y="80" class="sans" font-size="30" font-weight="700" fill="#e6edf3">Maksim Tarasov</text>
+  <text x="32" y="106" class="sans" font-size="15" fill="#8b949e">Senior Quality Engineer · 10+ years in QA and test automation</text>
+  <line x1="32" y1="126" x2="808" y2="126" stroke="#30363d"/>
+  <text x="32" y="156" class="mono line l1" fill="#8b949e">$ <tspan fill="#e6edf3">npx run profile --reporter=list</tspan></text>
+  <text x="32" y="184" class="mono line l2" fill="#e6edf3"><tspan fill="#3fb950">✓</tspan><tspan x="56" fill="#58a6ff">ai-tooling</tspan><tspan x="166">Claude Code agents that turn requirements and PRs into tests</tspan></text>
+  <text x="32" y="208" class="mono line l3" fill="#e6edf3"><tspan fill="#3fb950">✓</tspan><tspan x="56" fill="#58a6ff">ci-cd</tspan><tspan x="166">pipelines with AI review, security gates and rollback</tspan></text>
+  <text x="32" y="232" class="mono line l4" fill="#e6edf3"><tspan fill="#3fb950">✓</tspan><tspan x="56" fill="#58a6ff">frameworks</tspan><tspan x="166">Playwright, Kotlin, TypeScript — built as reference templates</tspan></text>
+  <text x="32" y="258" class="mono line l5" fill="#3fb950">3 passed <tspan fill="#8b949e">(10+ years)</tspan></text>
+  <rect x="210" y="246" width="8" height="15" fill="#e6edf3" class="cursor"/>
+</svg>
