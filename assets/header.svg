@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="840" height="270" viewBox="0 0 840 270" role="img" aria-label="Senior Quality Engineer. AI tooling for QA, CI/CD with AI review, reference test frameworks.">
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="236" viewBox="0 0 840 236" role="img" aria-label="Senior Quality Engineer. AI tooling for QA, CI/CD with AI review, reference test frameworks.">
   <style>
     .s{font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif} .m{font-family:ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace}
     .in{opacity:0;animation:in .4s ease-out forwards}
@@ -7,11 +7,10 @@
     
     @media (prefers-reduced-motion:reduce){*{animation:none!important;opacity:1!important}}
   </style>
-  <defs><pattern id="gb" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#30363d" stroke-width=".6" opacity=".55"/></pattern></defs><rect width="840" height="270" rx="4" fill="#0d1117"/><rect width="840" height="270" rx="4" fill="url(#gb)"/>
-  <path d="M6 20V6H20" fill="none" stroke="#8b949e" stroke-width="1.5"/><path d="M834 20V6H820" fill="none" stroke="#8b949e" stroke-width="1.5"/><path d="M6 250V264H20" fill="none" stroke="#8b949e" stroke-width="1.5"/><path d="M834 250V264H820" fill="none" stroke="#8b949e" stroke-width="1.5"/>
-  <text x="32" y="38" class="m" font-size="11" letter-spacing="1.5" fill="#58a6ff">MAKSIMTRS — PROFILE.SPEC</text>
-  <line x1="32" y1="48" x2="808" y2="48" stroke="#58a6ff" stroke-opacity=".5"/>
-  <text x="32" y="86" class="s" font-size="26" font-weight="700" fill="#e6edf3">Senior Quality Engineer <tspan font-weight="400" fill="#8b949e">· 10+ years in QA</tspan></text>
+  <defs><pattern id="gb" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#30363d" stroke-width=".6" opacity=".55"/></pattern></defs><rect width="840" height="236" rx="4" fill="#0d1117"/><rect width="840" height="236" rx="4" fill="url(#gb)"/>
+  <path d="M6 20V6H20" fill="none" stroke="#8b949e" stroke-width="1.5"/><path d="M834 20V6H820" fill="none" stroke="#8b949e" stroke-width="1.5"/><path d="M6 216V230H20" fill="none" stroke="#8b949e" stroke-width="1.5"/><path d="M834 216V230H820" fill="none" stroke="#8b949e" stroke-width="1.5"/>
+<g transform="translate(0 -34)">
+  <text x="32" y="86" class="s" font-size="26" font-weight="700" fill="#e6edf3">Senior Quality Engineer <tspan font-weight="400" fill="#8b949e">· 10+ years</tspan></text>
   <text x="32" y="114" class="m in d1" font-size="12" fill="#8b949e">$ npx run profile --reporter=list</text>
   <g class="in d2"><circle cx="40" cy="146" r="7" fill="none" stroke="#3fb950" stroke-width="1.5"/><path d="M36.5 146l2.3 2.3 4.4-4.6" fill="none" stroke="#3fb950" stroke-width="1.6"/><rect x="58" y="134" width="100" height="22" fill="#0d1117" stroke="#58a6ff"/><text x="108" y="150" text-anchor="middle" class="m" font-size="12" fill="#58a6ff">ai-tooling</text><line x1="158" y1="145" x2="196" y2="145" stroke="#8b949e" stroke-dasharray="3 3"/><circle cx="196" cy="145" r="2" fill="#8b949e"/><text x="208" y="150" class="m" font-size="13" fill="#e6edf3">Claude Code agents that turn requirements and PRs into tests</text></g>
   <g class="in d3"><circle cx="40" cy="176" r="7" fill="none" stroke="#3fb950" stroke-width="1.5"/><path d="M36.5 176l2.3 2.3 4.4-4.6" fill="none" stroke="#3fb950" stroke-width="1.6"/><rect x="58" y="164" width="100" height="22" fill="#0d1117" stroke="#58a6ff"/><text x="108" y="180" text-anchor="middle" class="m" font-size="12" fill="#58a6ff">ci-cd</text><line x1="158" y1="175" x2="196" y2="175" stroke="#8b949e" stroke-dasharray="3 3"/><circle cx="196" cy="175" r="2" fill="#8b949e"/><text x="208" y="180" class="m" font-size="13" fill="#e6edf3">pipelines with AI review, security gates and rollback</text></g>
@@ -20,4 +19,5 @@
   <path d="M32 241v10M808 241v10" stroke="#8b949e"/>
   <rect x="380" y="237" width="80" height="18" fill="#0d1117"/>
   <text x="420" y="250" text-anchor="middle" class="m" font-size="12" fill="#3fb950">3 passed</text></g>
+</g>
 </svg>
