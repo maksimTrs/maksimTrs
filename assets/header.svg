@@ -1,24 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="840" height="250" viewBox="0 0 840 250" role="img" aria-label="Senior Quality Engineer. AI tooling for QA, CI/CD with AI review, reference test frameworks.">
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="270" viewBox="0 0 840 270" role="img" aria-label="Senior Quality Engineer. AI tooling for QA, CI/CD with AI review, reference test frameworks.">
   <style>
-    .sans { font-family: -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; }
-    .mono { font-family: ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace; font-size: 14px; }
-    .line { opacity: 0; animation: show .35s ease-out forwards; }
-    .l1 { animation-delay: .3s; } .l2 { animation-delay: .9s; } .l3 { animation-delay: 1.4s; }
-    .l4 { animation-delay: 1.9s; } .l5 { animation-delay: 2.6s; }
-    .cursor { animation: blink 1s steps(1) infinite; animation-delay: 2.6s; opacity: 0; }
-    @keyframes show { from { opacity: 0; transform: translateY(4px); } to { opacity: 1; transform: none; } }
-    @keyframes blink { 0% { opacity: 1; } 50% { opacity: 0; } }
-    @media (prefers-reduced-motion: reduce) { .line, .cursor { animation: none; opacity: 1; } }
+    .s{font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif} .m{font-family:ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace}
+    .in{opacity:0;animation:in .4s ease-out forwards}
+    .d1{animation-delay:.2s} .d2{animation-delay:.6s} .d3{animation-delay:1s} .d4{animation-delay:1.4s} .d5{animation-delay:1.9s}
+    @keyframes in{from{opacity:0;transform:translateY(4px)}to{opacity:1;transform:none}}
+    
+    @media (prefers-reduced-motion:reduce){*{animation:none!important;opacity:1!important}}
   </style>
-  <rect x="1" y="1" width="838" height="248" rx="12" fill="#0d1117" stroke="#30363d"/>
-  <circle cx="26" cy="24" r="6" fill="#ff5f57"/><circle cx="46" cy="24" r="6" fill="#febc2e"/><circle cx="66" cy="24" r="6" fill="#28c840"/>
-  <text x="420" y="29" text-anchor="middle" class="mono" font-size="12" fill="#8b949e">maksimTrs — profile.spec</text>
-  <text x="32" y="80" class="sans" font-size="22" font-weight="600" fill="#e6edf3">Senior Quality Engineer <tspan font-weight="400" fill="#8b949e">· 10+ years in QA</tspan></text>
-  <line x1="32" y1="100" x2="808" y2="100" stroke="#30363d"/>
-  <text x="32" y="130" class="mono line l1" fill="#8b949e">$ <tspan fill="#e6edf3">npx run profile --reporter=list</tspan></text>
-  <text x="32" y="158" class="mono line l2" fill="#e6edf3"><tspan fill="#3fb950">✓</tspan><tspan x="56" fill="#58a6ff">ai-tooling</tspan><tspan x="166">Claude Code agents that turn requirements and PRs into tests</tspan></text>
-  <text x="32" y="182" class="mono line l3" fill="#e6edf3"><tspan fill="#3fb950">✓</tspan><tspan x="56" fill="#58a6ff">ci-cd</tspan><tspan x="166">pipelines with AI review, security gates and rollback</tspan></text>
-  <text x="32" y="206" class="mono line l4" fill="#e6edf3"><tspan fill="#3fb950">✓</tspan><tspan x="56" fill="#58a6ff">frameworks</tspan><tspan x="166">Playwright, Kotlin, TypeScript — built as reference templates</tspan></text>
-  <text x="32" y="232" class="mono line l5" fill="#3fb950">3 passed</text>
-  <rect x="112" y="220" width="8" height="15" fill="#e6edf3" class="cursor"/>
+  <defs><pattern id="gb" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#30363d" stroke-width=".6" opacity=".55"/></pattern></defs><rect width="840" height="270" rx="4" fill="#0d1117"/><rect width="840" height="270" rx="4" fill="url(#gb)"/>
+  <path d="M6 20V6H20" fill="none" stroke="#8b949e" stroke-width="1.5"/><path d="M834 20V6H820" fill="none" stroke="#8b949e" stroke-width="1.5"/><path d="M6 250V264H20" fill="none" stroke="#8b949e" stroke-width="1.5"/><path d="M834 250V264H820" fill="none" stroke="#8b949e" stroke-width="1.5"/>
+  <text x="32" y="38" class="m" font-size="11" letter-spacing="1.5" fill="#58a6ff">MAKSIMTRS — PROFILE.SPEC</text>
+  <line x1="32" y1="48" x2="808" y2="48" stroke="#58a6ff" stroke-opacity=".5"/>
+  <text x="32" y="86" class="s" font-size="26" font-weight="700" fill="#e6edf3">Senior Quality Engineer <tspan font-weight="400" fill="#8b949e">· 10+ years in QA</tspan></text>
+  <text x="32" y="114" class="m in d1" font-size="12" fill="#8b949e">$ npx run profile --reporter=list</text>
+  <g class="in d2"><circle cx="40" cy="146" r="7" fill="none" stroke="#3fb950" stroke-width="1.5"/><path d="M36.5 146l2.3 2.3 4.4-4.6" fill="none" stroke="#3fb950" stroke-width="1.6"/><rect x="58" y="134" width="100" height="22" fill="#0d1117" stroke="#58a6ff"/><text x="108" y="150" text-anchor="middle" class="m" font-size="12" fill="#58a6ff">ai-tooling</text><line x1="158" y1="145" x2="196" y2="145" stroke="#8b949e" stroke-dasharray="3 3"/><circle cx="196" cy="145" r="2" fill="#8b949e"/><text x="208" y="150" class="m" font-size="13" fill="#e6edf3">Claude Code agents that turn requirements and PRs into tests</text></g>
+  <g class="in d3"><circle cx="40" cy="176" r="7" fill="none" stroke="#3fb950" stroke-width="1.5"/><path d="M36.5 176l2.3 2.3 4.4-4.6" fill="none" stroke="#3fb950" stroke-width="1.6"/><rect x="58" y="164" width="100" height="22" fill="#0d1117" stroke="#58a6ff"/><text x="108" y="180" text-anchor="middle" class="m" font-size="12" fill="#58a6ff">ci-cd</text><line x1="158" y1="175" x2="196" y2="175" stroke="#8b949e" stroke-dasharray="3 3"/><circle cx="196" cy="175" r="2" fill="#8b949e"/><text x="208" y="180" class="m" font-size="13" fill="#e6edf3">pipelines with AI review, security gates and rollback</text></g>
+  <g class="in d4"><circle cx="40" cy="206" r="7" fill="none" stroke="#3fb950" stroke-width="1.5"/><path d="M36.5 206l2.3 2.3 4.4-4.6" fill="none" stroke="#3fb950" stroke-width="1.6"/><rect x="58" y="194" width="100" height="22" fill="#0d1117" stroke="#58a6ff"/><text x="108" y="210" text-anchor="middle" class="m" font-size="12" fill="#58a6ff">frameworks</text><line x1="158" y1="205" x2="196" y2="205" stroke="#8b949e" stroke-dasharray="3 3"/><circle cx="196" cy="205" r="2" fill="#8b949e"/><text x="208" y="210" class="m" font-size="13" fill="#e6edf3">Playwright, Kotlin, TypeScript — built as reference templates</text></g>
+  <g class="in d5"><line x1="32" y1="246" x2="808" y2="246" stroke="#8b949e" stroke-opacity=".6"/>
+  <path d="M32 241v10M808 241v10" stroke="#8b949e"/>
+  <rect x="380" y="237" width="80" height="18" fill="#0d1117"/>
+  <text x="420" y="250" text-anchor="middle" class="m" font-size="12" fill="#3fb950">3 passed</text></g>
 </svg>

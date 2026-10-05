@@ -1,10 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="420" height="160" viewBox="0 0 420 160" role="img" aria-label="WebQA3: Playwright + TypeScript API and UI tests: layered clients, JSON Schema contracts, UI state seeded via API, live HTML report.">
-  <style>.s{font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif}.m{font-family:ui-monospace,SFMono-Regular,Consolas,Menlo,monospace}</style>
-  <rect x="1" y="1" width="418" height="158" rx="10" fill="#0d1117" stroke="#30363d"/>
-  <text x="20" y="30" class="m" font-size="11" letter-spacing=".5" fill="#58a6ff">TEST FRAMEWORK</text>
-  <text x="20" y="56" class="s" font-size="17" font-weight="600" fill="#e6edf3">WebQA3</text>
-  <text y="82" class="s" font-size="13" fill="#8b949e"><tspan x="20" dy="0">Playwright + TypeScript API and UI tests: layered</tspan><tspan x="20" dy="19">clients, JSON Schema contracts, UI state seeded via API,</tspan><tspan x="20" dy="19">live HTML report.</tspan></text>
-  <circle cx="26" cy="141" r="6" fill="#3178C6"/>
-  <text x="38" y="145" class="s" font-size="12" fill="#8b949e">TypeScript</text>
-  <text x="400" y="145" text-anchor="end" class="s" font-size="12" fill="#58a6ff">View repo →</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="180" viewBox="0 0 420 180" role="img" aria-label="WebQA3: Playwright + TypeScript API and UI tests: layered clients, JSON Schema contracts, UI state seeded via API, live HTML report.">
+  <style>
+    .s{font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif} .m{font-family:ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace}
+    .in{opacity:0;animation:in .4s ease-out forwards}
+    .d1{animation-delay:.2s} .d2{animation-delay:.6s} .d3{animation-delay:1s} .d4{animation-delay:1.4s} .d5{animation-delay:1.9s}
+    @keyframes in{from{opacity:0;transform:translateY(4px)}to{opacity:1;transform:none}}
+    
+    @media (prefers-reduced-motion:reduce){*{animation:none!important;opacity:1!important}}
+  </style>
+  <defs><pattern id="gWebQA3" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#30363d" stroke-width=".6" opacity=".55"/></pattern></defs><rect width="420" height="166" rx="4" fill="#0d1117"/><rect width="420" height="166" rx="4" fill="url(#gWebQA3)"/>
+  <text x="20" y="32" class="m" font-size="11" letter-spacing="1.5" fill="#58a6ff">TEST FRAMEWORK</text>
+  <text x="20" y="58" class="s" font-size="17" font-weight="700" fill="#e6edf3">WebQA3</text>
+  <text y="84" class="m" font-size="12" fill="#8b949e"><tspan x="20" dy="0">Playwright + TypeScript API and UI tests: layered</tspan><tspan x="20" dy="18">clients, JSON Schema contracts, UI state seeded via</tspan><tspan x="20" dy="18">API, live HTML report.</tspan></text>
+  <line x1="20" y1="136" x2="400" y2="136" stroke="#30363d"/>
+  <rect x="20" y="145" width="10" height="10" fill="#3178C6"/><text x="38" y="154" class="m" font-size="11" fill="#8b949e">TypeScript</text>
+  <text x="400" y="154" text-anchor="end" class="m" font-size="11" fill="#58a6ff">VIEW REPO →</text>
 </svg>
