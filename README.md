@@ -1,4 +1,7 @@
-<img src="assets/header.svg" alt="Senior Quality Engineer. AI tooling for QA, CI/CD with AI review, reference test frameworks." width="100%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header.svg">
+  <img src="assets/header-light.svg" alt="Senior Quality Engineer. AI tooling for QA, CI/CD with AI review, reference test frameworks." width="100%">
+</picture>
 
 AI tooling for QA and development teams — and the test frameworks and pipelines it runs on.
 
@@ -6,8 +9,10 @@ AI tooling for QA and development teams — and the test frameworks and pipeline
 
 <a href="https://github.com/maksimTrs/jev-ultrafast-ai-ui-tests"><img src="assets/card-jev-ultrafast-ai-ui-tests.svg" alt="jev-ultrafast-ai-ui-tests" width="49%"></a>
 <a href="https://github.com/maksimTrs/ai-ci-github-actions"><img src="assets/card-ai-ci-github-actions.svg" alt="ai-ci-github-actions" width="49%"></a>
+
 <a href="https://github.com/maksimTrs/qa-ai-framework"><img src="assets/card-qa-ai-framework.svg" alt="qa-ai-framework" width="49%"></a>
 <a href="https://github.com/maksimTrs/AI-PRESET-RAG"><img src="assets/card-AI-PRESET-RAG.svg" alt="AI-PRESET-RAG" width="49%"></a>
+
 <a href="https://github.com/maksimTrs/mymicroservice-gitlab-cicd"><img src="assets/card-mymicroservice-gitlab-cicd.svg" alt="mymicroservice-gitlab-cicd" width="49%"></a>
 <a href="https://github.com/maksimTrs/WebQA3"><img src="assets/card-WebQA3.svg" alt="WebQA3" width="49%"></a>
 

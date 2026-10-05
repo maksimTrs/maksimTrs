@@ -1,17 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="420" height="180" viewBox="0 0 420 180" role="img" aria-label="ai-ci-github-actions: Four Claude Code reviewers dispatched by changed paths, hardened against prompt injection, plus Trivy scans. Mirrored on Jenkins.">
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="166" viewBox="0 0 420 166" role="img" aria-label="ai-ci-github-actions: Four Claude Code reviewers dispatched by changed paths, hardened against prompt injection, plus Trivy scans. Mirrored on Jenkins.">
   <style>
     .s{font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif} .m{font-family:ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace}
     .in{opacity:0;animation:in .4s ease-out forwards}
     .d1{animation-delay:.2s} .d2{animation-delay:.6s} .d3{animation-delay:1s} .d4{animation-delay:1.4s} .d5{animation-delay:1.9s}
     @keyframes in{from{opacity:0;transform:translateY(4px)}to{opacity:1;transform:none}}
-    
+    .bg{fill:#f6f8fa} .gl{stroke:#d0d7de} .bd{stroke:#d0d7de} .tx{fill:#1f2328} .mu{fill:#59636e} .ac{fill:#0969da} @media (prefers-color-scheme:dark){.bg{fill:#0d1117} .gl{stroke:#30363d} .bd{stroke:#30363d} .tx{fill:#e6edf3} .mu{fill:#8b949e} .ac{fill:#58a6ff}}
     @media (prefers-reduced-motion:reduce){*{animation:none!important;opacity:1!important}}
   </style>
-  <defs><pattern id="gaicigithub" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#30363d" stroke-width=".6" opacity=".55"/></pattern></defs><rect width="420" height="166" rx="4" fill="#0d1117"/><rect width="420" height="166" rx="4" fill="url(#gaicigithub)"/>
-  <text x="20" y="32" class="m" font-size="11" letter-spacing="1.5" fill="#58a6ff">AI · CI/CD</text>
-  <text x="20" y="58" class="s" font-size="17" font-weight="700" fill="#e6edf3">ai-ci-github-actions</text>
-  <text y="84" class="m" font-size="12" fill="#8b949e"><tspan x="20" dy="0">Four Claude Code reviewers dispatched by changed</tspan><tspan x="20" dy="18">paths, hardened against prompt injection, plus Trivy</tspan><tspan x="20" dy="18">scans. Mirrored on Jenkins.</tspan></text>
-  <line x1="20" y1="136" x2="400" y2="136" stroke="#30363d"/>
-  <rect x="20" y="145" width="10" height="10" fill="#3178C6"/><text x="38" y="154" class="m" font-size="11" fill="#8b949e">TypeScript</text>
-  <text x="400" y="154" text-anchor="end" class="m" font-size="11" fill="#58a6ff">VIEW REPO →</text>
+  <defs><pattern id="gaicigithub" width="20" height="20" patternUnits="userSpaceOnUse"><path class="gl" d="M20 0H0V20" fill="none" stroke-width=".6" opacity=".55"/></pattern></defs>
+  <rect class="bg" width="420" height="166" rx="4"/><rect width="420" height="166" rx="4" fill="url(#gaicigithub)"/>
+  <text x="20" y="32" class="m ac" font-size="11" letter-spacing="1.5">AI · CI/CD</text>
+  <text x="20" y="58" class="s tx" font-size="17" font-weight="700">ai-ci-github-actions</text>
+  <text y="84" class="m mu" font-size="12"><tspan x="20" dy="0">Four Claude Code reviewers dispatched by changed</tspan><tspan x="20" dy="18">paths, hardened against prompt injection, plus Trivy</tspan><tspan x="20" dy="18">scans. Mirrored on Jenkins.</tspan></text>
+  <line class="bd" x1="20" y1="136" x2="400" y2="136"/>
+  <rect x="20" y="145" width="10" height="10" fill="#3178C6"/><text x="38" y="154" class="m mu" font-size="11">TypeScript</text>
+  <text x="400" y="154" text-anchor="end" class="m ac" font-size="11">VIEW REPO →</text>
 </svg>
