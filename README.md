@@ -4,6 +4,5 @@
 </picture>
 
 
-### Contact
-
+### Contact:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/maksim-trsv/)
